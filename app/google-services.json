@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463938974657",
+    "project_id": "gsignin-5aa55"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463938974657:android:f20ae0d968c01307",
+        "android_client_info": {
+          "package_name": "com.ramesh.gsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463938974657-vl92rb0j8l8s016me1b05a6rk7va6aen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQH2HPihxhyrPQSK5vnzX7AyRgkE4Mng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
